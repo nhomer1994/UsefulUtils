@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders (your local env folder)
+UsefulUtils/
+**/UsefulUtils/
+
+# Conda environment files (optional, but useful to ignore backups)
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
+
+# Jupyter output
+.ipynb_checkpoints/
+*.nbconvert.ipynb
